@@ -1,2 +1,2 @@
 # user_login
-First time crrated an login page with javascript validation. 
+First time created a login page with javascript validation. 
