@@ -2,24 +2,9 @@ var value=[];
 
 var dataBase=[
     {
-        username:"chetan",
+        username:"ben",
         password:"123",
-        email:"chetankhachane655@gmail.com"
-    },
-    {
-        username:"yuvraj",
-        password:"yuvi",
-        email:"yuvrajkhachane96@gmail.com"
-    },
-    {
-        username:"vaibhavi",
-        password:"vaichetu",
-        email:"vaibhavikhachane30@gmail.com"
-    },
-    {
-        username:"vidya",
-        password:"vivid",
-        email:"vidyakhachane27@gmail.com"
+        email:ben@gmail.com"
     }
 ]
 
